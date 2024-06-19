@@ -96,3 +96,23 @@ footer {
 footer p {
     margin: 0;
 }
+
+.project {
+    border: 1px solid #ccc;
+    padding: 16px;
+    text-align: center;
+    background-color: #fff; /* Optional: add a background color to the project section */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for better visualization */
+}
+.project img {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.project h3 {
+    margin-top: 10px;
+}
+.project p {
+    color: #555;
+}
